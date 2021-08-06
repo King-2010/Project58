@@ -50,3 +50,19 @@ html {
     text-align: center;
     vertical-align: middle;
 }
+
+Game S: hover {
+ /*give transfor property to scale to 0.9*/
+    transform: scale (0.9);
+    
+}
+#AboutMe {
+    
+    color: white;
+    bottom: 0;
+    background:skyblue ;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
